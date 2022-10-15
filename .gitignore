@@ -2,8 +2,8 @@
 node_modules
 /dist
 
-*./backend/venv
-*./frontend/node_modules
+**/backend/venv
+**/frontend/node_modules
 
 # local env files
 .env.local
